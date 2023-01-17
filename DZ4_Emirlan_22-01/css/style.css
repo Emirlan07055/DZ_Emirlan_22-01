@@ -1,0 +1,23 @@
+.counter{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+/*************************/
+
+.block{
+    width: 500px;
+    height: 500px;
+    border: 3px solid black;
+    background: green;
+}
